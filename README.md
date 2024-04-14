@@ -7,6 +7,6 @@
 2. Ejecuta el siguiente comando en la terminal de VSCode:  
 
 ``` 
-flutter pub dev 
+flutter pub get
 ```
 
